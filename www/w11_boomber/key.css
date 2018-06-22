@@ -1,0 +1,14 @@
+body{
+    border: 10px solid purple;
+    width: 300px;
+    text-align: center;
+}
+
+input{
+    margin: 10px;
+}
+
+#boombs img{
+    width: 25px;
+    margin: 5px 3px;
+}
